@@ -1,4 +1,5 @@
 **Functions**
+
 **Admin**
 1. Signup their account. Then Login (No approval Required).
 2. Can register/view/approve/reject/delete doctor (approve those doctor who applied for job in their hospital).
